@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 5px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #3468db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    margin-top: 50px;
+}
+
+#mensagem{
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    width: 300px;
+    margin: 20px auto;
+
+}
+
+.oculto{
+    display: none;
+}
