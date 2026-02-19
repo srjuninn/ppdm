@@ -1,0 +1,67 @@
+[
+  {
+    "nome": "Camiseta Algodão Premium",
+    "preco": 59.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Calça Jeans Slim Fit",
+    "preco": 129.90,
+    "disponivel": false
+  },
+  {
+    "nome": "Tênis Esportivo Runner",
+    "preco": 199.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Jaqueta Couro Sintético",
+    "preco": 249.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Vestido Floral Verão",
+    "preco": 89.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Camisa Social Slim",
+    "preco": 139.90,
+    "disponivel": false
+  },
+  {
+    "nome": "Saia Midi Plissada",
+    "preco": 99.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Moletom Oversized",
+    "preco": 119.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Sandália Rasteira Confort",
+    "preco": 79.90,
+    "disponivel": false
+  },
+  {
+    "nome": "Boné Trucker Estilizado",
+    "preco": 49.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Relógio Digital Casual",
+    "preco": 159.90,
+    "disponivel": true
+  },
+  {
+    "nome": "Bolsa Tote Feminina",
+    "preco": 189.90,
+    "disponivel": false
+  },
+  {
+    "nome": "Óculos de Sol Aviador",
+    "preco": 129.90,
+    "disponivel": true
+  }
+]
